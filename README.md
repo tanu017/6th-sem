@@ -1,0 +1,1 @@
+This repo is for all the 6th sem(final year) lab codes for Machine Learning and MAD(doubtful if I will ever push code related to this subject)
